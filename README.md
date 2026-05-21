@@ -1,4 +1,4 @@
-# STM32 FreeRTOS Multitasking System
+# stm32-rtos-sensor-hub
 
 A real-time embedded firmware project using STM32 and FreeRTOS demonstrating multitasking, interrupt handling, ADC acquisition, inter-task communication, and synchronization mechanisms.
 
